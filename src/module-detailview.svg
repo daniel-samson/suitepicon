@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg4949"
+   >
+  <metadata
+     id="metadata4953">
+    </metadata>
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4931">detailview_grey</title>
+  <desc
+     id="desc4933">Created with Sketch.</desc>
+  <defs
+     id="defs4935" />
+  <g
+     id="Page-1"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(496.94727,970.45881)">
+    <g
+       id="detailview_grey">
+      <rect
+         id="Rectangle-6"
+         x="2.0527344"
+         y="2.6191406"
+         width="26"
+         height="9.6464844"
+         style="fill:#778591" />
+      <path
+         d="M 2.5527344,14.765625 H 27.552734"
+         id="Line"
+         style="stroke:#778591;stroke-linecap:square" />
+      <path
+         d="M 2.5527344,17.765625 H 27.552734"
+         id="path4939"
+         style="stroke:#778591;stroke-linecap:square" />
+      <path
+         d="M 2.5527344,20.765625 H 27.552734"
+         id="path4941"
+         style="stroke:#778591;stroke-linecap:square" />
+      <path
+         d="M 2.5527344,23.765625 H 27.552734"
+         id="path4943"
+         style="stroke:#778591;stroke-linecap:square" />
+      <path
+         d="M 2.5527344,26.765625 H 27.552734"
+         id="path4945"
+         style="stroke:#778591;stroke-linecap:square" />
+    </g>
+  </g>
+  <path
+     style="stroke-width:1.42024946"
+     d="M 0,215.87908 V 26.274693 H 511.99998 1024 V 215.87908 405.48149 H 511.99998 0 Z"
+     id="path4955"
+     />
+  <path
+     style="stroke-width:1.42024946"
+     d="M 0,504.1888 V 485.01521 H 511.99998 1024 v 19.17359 19.17358 H 511.99998 0 Z"
+     id="path4957"
+     />
+  <path
+     style="stroke-width:1.42024946"
+     d="M 0,623.48937 V 604.31578 H 511.99998 1024 v 19.17359 19.17359 H 511.99998 0 Z"
+     id="path4959"
+     />
+  <path
+     style="stroke-width:1.42024946"
+     d="M 0,741.37026 V 722.19667 H 511.99998 1024 v 19.17359 19.17359 H 511.99998 0 Z"
+     id="path4961"
+     />
+  <path
+     style="stroke-width:1.42024946"
+     d="M 0,859.25115 V 840.07756 H 511.99998 1024 v 19.17359 19.17359 H 511.99998 0 Z"
+     id="path4963"
+     />
+  <path
+     style="stroke-width:1.42024946"
+     d="M 0,978.55171 V 959.37813 H 511.99998 1024 v 19.17358 19.1736 H 511.99998 0 Z"
+     id="path4965"
+     />
+</svg>
